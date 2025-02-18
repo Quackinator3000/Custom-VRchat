@@ -1,7 +1,7 @@
 import math
 import random
 #This version is in a pre - pre - alpha stage. just trying to get a printable card deck and avoid repititions
-
+#TEST VERSION 0.0.1
 i = 0
 j = 0
 k = 0
