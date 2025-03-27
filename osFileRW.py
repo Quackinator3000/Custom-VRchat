@@ -1,5 +1,6 @@
 import os
 
+
 file = os.open("helloworld.txt", os.O_RDWR | os.O_CREAT | os.O_APPEND)
 i = 0
 while i < 10:
